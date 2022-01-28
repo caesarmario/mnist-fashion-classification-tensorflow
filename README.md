@@ -1,4 +1,4 @@
-<h1 align="center"> 💳 ETL Credit Card Data Set 💳 </h1>
+<h1 align="center"> 🥼 Fashion MNIST Classification 🥼 </h1>
 <p align="center">using <b>Python 🐍</b><br><br>
 .: 📄 Dataset taken from <b><a href="https://www.kaggle.com/zalando-research/fashionmnist"> Kaggle </a></b> :.
 </p><br>
